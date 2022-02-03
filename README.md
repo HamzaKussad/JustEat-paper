@@ -1,5 +1,2 @@
-It contains the following directories:
-
-- `datasets`: place store raw data
-- `report`: template files for the report 
+A data science paper that studies the effect of the COVID on the Edinburgh JustEat bicycle hiring scheme
 
